@@ -1,8 +1,9 @@
 {
-  "elite" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/elite.png", 
-  "master" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/master.png",
-  "gmaster" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/gmaster.png",
-  "epic" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/epic.png",
-  "lord" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/lord.png",
-  "mythical" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/mythic.png"
+  "nonett" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/Nonett.mp4",
+  "elite" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/Elite.mp4", 
+  "master" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/Master.mp4",
+  "gmaster" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/GMaster.mp4",
+  "epic" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/Epic.mp4",
+  "lord" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/Lord.mp4",
+  "mythical" : "https://raw.githubusercontent.com/HBMods-OFC/Vipdata/master/Title/Mythic.mp4"
 }
